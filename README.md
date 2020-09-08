@@ -70,6 +70,22 @@
     - 데이터 추가화면구성 
     - 데이터 추가, 수정화면의 UI 기능 구현 ( 옷 data입력 ) 
     - 이미지 picker, aws-sdk 사용한 이미지 upload 기능
+    
+### 김라희
+- Role :  Team Member
+- Position : Full-Stack
+- Stack : node.js, express, sequelize, MySQL, S3 / React-Native, React-Navigation, React-Hooks
+- Works :
+    - MVC 패턴 적용
+    - DB 테이블 생성 및 관계 설정
+    - 다대다 관계 테이블 sequelize 관계 설정
+    - 아이템 데이터 CRUD (Server ↔ DB)
+    - 비밀번호 암호화
+    - multerS3,aws-sdk를 활용한 이미지 업로드
+    - dotenv를 이용한 개발 버전 적용
+    - Async storage를 활용한 자동로그인
+    - 세탁정보페이지 Grid 디자인 적용
+
 
 ### 이나린
 - Role : Team Member
@@ -87,17 +103,3 @@
     - RDS 생성 및 셋팅
     - EC2 배포 및 PM2 적용
     
-### 김라희
-- Role :  Team Member
-- Position : Full-Stack
-- Stack : node.js, express, sequelize, MySQL, S3 / React-Native, React-Navigation, React-Hooks
-- Works :
-    - MVC 패턴 적용
-    - DB 테이블 생성 및 관계 설정
-    - 다대다 관계 테이블 sequelize 관계 설정
-    - 아이템 데이터 CRUD (Server ↔ DB)
-    - 비밀번호 암호화
-    - multerS3,aws-sdk를 활용한 이미지 업로드
-    - dotenv를 이용한 개발 버전 적용
-    - Async storage를 활용한 자동로그인
-    - 세탁정보페이지 Grid 디자인 적용
